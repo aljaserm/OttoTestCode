@@ -1,6 +1,5 @@
 # OttoTestCode
 
-```markdown
 # IP Range Controller
 
 This project is a RESTful API that retrieves IP ranges from the Amazon Web Services (AWS) IP Ranges API and provides endpoints to query and filter the IP ranges.
